@@ -194,3 +194,20 @@ pg_dump -cC --inserts -U freecodecamp universe > universe.sql
 pwd
 git init
 git add .
+git commit -m 'Project 1'
+git remote add origin 'https://github.com/vA7med72/fCC-SQL-tests'
+git remote add origin git@github.com:vA7med72/fCC-SQL-tests.git
+git branch -M main
+git remote add origin git@github.com:vA7med72/fCC-SQL-tests.git
+git remote add origin git@github.com:vA7med72/fCC-SQL-tests.git
+git branch -M main
+git push -u origin main
+git push -u origin main
+git push -u origin main
+__vsc_prompt_cmd_original
+git init
+git remote add origin https://github.com/vA7med72/fCC-SQL-tests
+git remote -v
+git remote set-url origin https://github.com/vA7med72/fCC-SQL-tests
+git remote -v
+git add .
